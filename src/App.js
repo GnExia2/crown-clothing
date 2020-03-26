@@ -1,6 +1,7 @@
 import React, { Component } from 'react';
-import './App.css';
 import HomePage from './homepage.component';
+
+import './App.css';
 
 
 
